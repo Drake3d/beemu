@@ -1,0 +1,11 @@
+# beemu virtual machine
+name = BeOS Dano
+hda = /Users/drake3d/Desktop/BeOS/Emulator/beemu/images/dano.raw
+cdrom = 
+boot = disk
+ram = 512
+cpus = 4
+video = g400
+sound = es1370
+nic = both
+keep_disk_changes = yes

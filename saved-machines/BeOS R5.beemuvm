@@ -1,0 +1,11 @@
+# beemu virtual machine
+name = BeOS R5
+hda = /Users/drake3d/Desktop/BeOS/Emulator/beemu/images/beos-5.raw
+cdrom = 
+boot = disk
+ram = 1024
+cpus = 1
+video = g400
+sound = es1370
+nic = both
+keep_disk_changes = yes

@@ -1,0 +1,11 @@
+build/
+.DS_Store
+*.img
+*.qcow2
+*.iso
+build-*/
+*.raw
+images/
+bios/*.bin
+*.wav
+*.png.tmp
